@@ -18,12 +18,15 @@
   Seguidamente vamos a la carpeta src/test/resources y creamos una carpeta para incluir el Chrome Driver y dentro de ella importamos el Chrome driver previamente descargado:
   
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/ImportCromeDriver.PNG) 
+  
   Creamos el script en src/test/java :
   
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/MainJava.PNG) 
+  
   Y por último corremos en el script:
   
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/CorrerScript2.PNG) 
+  
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/CorrerScript3.PNG) 
 
   
