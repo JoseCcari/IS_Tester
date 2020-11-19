@@ -1,12 +1,12 @@
 
 # Practica 5
   ## Pruebas Funcionalaes<br/>
-  Para realizar pruebas funcionales automatizadas utilizaremos Selenium Web Driver , Chrome driver , el IDE Eclipse y maven jUnit .
   ### PreRequisitos:
   primero instalamos los paquetes necesarios :
-  * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-  * [Maven](https://maven.apache.org/) - Manejador de dependencias
-  * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+  * [Jdk-11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - Jdk8 o mayor
+  * [Eclipse](https://www.eclipse.org/downloads/packages/release/mars/r/eclipse-ide-java-ee-developers) - IDE Eclipse para java
+  * [Selenium](https://www.selenium.dev/downloads/) - Selenium Web Driver
+  * [Chrome Driver](https://chromedriver.chromium.org/) - Chrome driver
   <pre><code>sudo apt-get install libgtest-dev </code></pre> 
   <pre><code>clone https://github.com/google/googletest.git </code></pre>  
   luego nos ponemos en el directorio del g test y :  
