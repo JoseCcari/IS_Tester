@@ -11,6 +11,7 @@
   ### Creación de proyecto: 🔧
   Primero abrimos nuestro IDE eclipse y creamos un nuevo proyecto java: 
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/crear_proyect.PNG) 
+  
   Luego en el archivo pom.xml incluimos las dependencias de selenium: 
   
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/DependenciesSelenium.PNG) 
