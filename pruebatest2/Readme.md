@@ -1,7 +1,12 @@
 
-# Google_test-pruebas
-  ## Pruebas unitarias con Google test<br/>
-  primero instalamos los paquetes necesarios 
+# Practica 5
+  ## Pruebas Funcionalaes<br/>
+  Para realizar pruebas funcionales automatizadas utilizaremos Selenium Web Driver , Chrome driver , el IDE Eclipse y maven jUnit .
+  ### PreRequisitos:
+  primero instalamos los paquetes necesarios :
+  * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+  * [Maven](https://maven.apache.org/) - Manejador de dependencias
+  * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
   <pre><code>sudo apt-get install libgtest-dev </code></pre> 
   <pre><code>clone https://github.com/google/googletest.git </code></pre>  
   luego nos ponemos en el directorio del g test y :  
