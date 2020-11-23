@@ -10,24 +10,14 @@
   * [Chrome Driver](https://chromedriver.chromium.org/) - Chrome driver
   ### Casos de prueba: 
   Elaboramos un cuadro para describirlos: 
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/crear_proyect.PNG) 
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatester3/IMG_TEST_CASES/Cuadro_Tests.PNG) 
   
-  Luego en el archivo pom.xml incluimos las dependencias de selenium: 
+  ### Pruebas
   
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/DependenciesSelenium.PNG) 
-  Seguidamente vamos a la carpeta src/test/resources y creamos una carpeta para incluir el Chrome Driver y dentro de ella importamos el Chrome driver previamente descargado:
+  Podemos el éxito de los casos de prueba antes descritos:
   
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/ImportCromeDriver.PNG) 
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatester3/IMG_TEST_CASES/Tests.PNG) 
   
-  Creamos el script en src/test/java :
-  
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/MainJava.PNG) 
-  
-  Y por último corremos en el script:
-  
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/CorrerScript2.PNG) 
-  
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/IS_Tester/blob/main/pruebatest2/IMG_TESTS/CorrerScript3.PNG) 
-
+ 
   
   
